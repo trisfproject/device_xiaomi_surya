@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nad_surya.mk \
+    $(LOCAL_DIR)/komodo_surya.mk \
 
 COMMON_LUNCH_CHOICES := \
-    nad_surya-user \
-    nad_surya-userdebug \
-    nad_surya-eng
+    komodo_surya-user \
+    komodo_surya-userdebug \
+    komodo_surya-eng
